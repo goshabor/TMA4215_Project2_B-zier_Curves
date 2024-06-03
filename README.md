@@ -1,1 +1,1 @@
-# TMA4215_Project2_B-zier_Curves
+# TMA4215_Project2_Bezier_Curves
